@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BERGA04
+- 👀 I’m interested in development web app
+- 🌱 I’m currently learning javascript, php, react, node js and sql
+- 📫 Email: berga061994@gmail.com
